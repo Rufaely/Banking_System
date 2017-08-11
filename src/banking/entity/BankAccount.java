@@ -1,5 +1,5 @@
 package banking.entity;
-//Rufael Yohannes
+//@ Author Rufael Yohannes
 import framework.entity.AccountImp;
 
 public class BankAccount extends AccountImp {
